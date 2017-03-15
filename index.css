@@ -1,0 +1,44 @@
+
+*{			
+	font-family: "Comic Sans MS";
+}
+
+body {
+	background: grey;
+}
+
+td
+{
+	width: 40px;
+	font-weight: bold;
+	font-size: 100pt
+	height: 40px;
+	text-align: center;
+}
+
+table {
+
+	height: 575px;
+	width: 500px;
+    border-collapse: collapse;
+}
+
+table, td, th {
+    border: 5px solid black;
+    color:black;
+    background: #fff;                                                                            
+
+}
+
+h1{
+	display: inline;
+}
+
+#btn{
+	margin: 12px 37px 1px 0px;
+	font-weight: bold;
+	margin-left: 47%;
+	padding: 10px;
+	border-radius: 2px;
+	border-color: #000;
+}
